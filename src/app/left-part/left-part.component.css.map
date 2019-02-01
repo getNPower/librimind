@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAW;EACT,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,IAAI",
+"sources": ["left-part.component.scss"],
+"names": [],
+"file": "left-part.component.css"
+}
